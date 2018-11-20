@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">BusTracker</string>
+    <string name="new_user">Cadastre-se</string>
+    <string name="user_name">Nome</string>
+    <string name="user_email">E-mail</string>
+    <string name="user_registration">Matricula</string>
+    <string name="user_password">Senha</string>
+    <string name="save_user">Cadastrar</string>
+    <string name="open_drawer">Abrir</string>
+    <string name="close_drawer">Fechar</string>
+    <string name="api_google">API KEY GOOGLE</string>
+</resources>
